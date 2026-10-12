@@ -1,0 +1,7 @@
+zone,skus,categories,max_pair_support,max_lift,cross_category
+Zone 1,Toned Milk 1L + White Bread 400g,Bakery / Dairy,0.2384,3.6865,True
+Zone 2,Cola 750ml + Potato Chips 90g,Beverages / Snacks,0.1974,4.1767,True
+Zone 3,Basmati Rice 5kg + Cooking Oil 1L + Toor Dal 1kg,Staples,0.1544,3.7426,False
+Zone 4,Choco Cookies 150g + Instant Coffee 100g,Beverages / Snacks,0.152,4.8353,True
+Zone 5,Ghee 500ml + Poha 500g,Dairy / Staples,0.1468,5.0677,True
+Zone 6,Face Wash 100ml + Hand Sanitizer 200ml,Personal Care,0.1318,5.0511,False

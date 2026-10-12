@@ -1,0 +1,7 @@
+pattern,antecedent,consequent,spec_support,spec_confidence,spec_lift,support,confidence,lift,support_baskets,support_ok,confidence_ok,lift_ok
+Breakfast Combo,Toned Milk 1L,White Bread 400g,0.2384,0.9386,3.69,0.2384,0.9386,3.6865,1192,True,True,True
+Thali Staples,Basmati Rice 5kg,Toor Dal 1kg,0.1534,0.774,3.74,0.1534,0.774,3.7426,767,True,True,True
+Snack-Drink Combo,Potato Chips 90g,Cola 750ml,0.1974,0.9038,4.18,0.1974,0.9038,4.1767,987,True,True,True
+Ghar Breakfast,Ghee 500ml,Poha 500g,0.1468,0.8605,5.07,0.1468,0.8605,5.0677,734,True,True,True
+Tea-Time,Instant Coffee 100g,Choco Cookies 150g,0.152,0.8588,4.84,0.152,0.8588,4.8353,760,True,True,True
+Personal Care Restock,Hand Sanitizer 200ml,Face Wash 100ml,0.1318,0.793,5.05,0.1318,0.793,5.0511,659,True,True,True

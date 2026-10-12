@@ -1,0 +1,17 @@
+antecedent,consequent,confidence,support,lift,fires_per_month,missed_add_ons
+Toned Milk 1L,White Bread 400g,0.9386,0.2384,3.6865,1270,78
+White Bread 400g,Toned Milk 1L,0.9364,0.2384,3.6865,1273,81
+Cola 750ml,Potato Chips 90g,0.9122,0.1974,4.1767,1082,95
+Potato Chips 90g,Cola 750ml,0.9038,0.1974,4.1767,1092,105
+Poha 500g,Ghee 500ml,0.8645,0.1468,5.0677,849,115
+Ghee 500ml,Poha 500g,0.8605,0.1468,5.0677,853,119
+Instant Coffee 100g,Choco Cookies 150g,0.8588,0.152,4.8353,885,125
+Choco Cookies 150g,Instant Coffee 100g,0.8559,0.152,4.8353,888,128
+Face Wash 100ml,Hand Sanitizer 200ml,0.8395,0.1318,5.0511,785,126
+Hand Sanitizer 200ml,Face Wash 100ml,0.793,0.1318,5.0511,831,172
+Basmati Rice 5kg,Toor Dal 1kg,0.774,0.1534,3.7426,991,224
+Cooking Oil 1L,Toor Dal 1kg,0.7735,0.1544,3.7406,998,226
+Toor Dal 1kg,Cooking Oil 1L,0.7466,0.1544,3.7406,1034,262
+Toor Dal 1kg,Basmati Rice 5kg,0.7418,0.1534,3.7426,1034,267
+Basmati Rice 5kg,Cooking Oil 1L,0.7376,0.1462,3.6956,991,260
+Cooking Oil 1L,Basmati Rice 5kg,0.7325,0.1462,3.6956,998,267

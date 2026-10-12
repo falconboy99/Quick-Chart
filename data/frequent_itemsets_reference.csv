@@ -1,0 +1,257 @@
+support,itemsets
+0.0568,frozenset({'Air Freshener'})
+0.0608,frozenset({'Apple 1kg'})
+0.06,frozenset({'Banana 1kg'})
+0.0578,frozenset({'Banana Chips 150g'})
+0.0604,frozenset({'Bar Soap 125g'})
+0.1982,frozenset({'Basmati Rice 5kg'})
+0.0668,frozenset({'Besan 1kg'})
+0.0588,frozenset({'Brown Bread 400g'})
+0.0626,frozenset({'Butter 100g'})
+0.067,frozenset({'Buttermilk 1L'})
+0.0564,frozenset({'Capsicum 500g'})
+0.0548,frozenset({'Carrot 500g'})
+0.0596,frozenset({'Cheese Slices 200g'})
+0.1776,frozenset({'Choco Cookies 150g'})
+0.2164,frozenset({'Cola 750ml'})
+0.1996,frozenset({'Cooking Oil 1L'})
+0.0628,frozenset({'Croissant 2pc'})
+0.0614,frozenset({'Cucumber 500g'})
+0.0648,frozenset({'Cup Cakes 4pc'})
+0.0606,frozenset({'Curd 400g'})
+0.0598,frozenset({'Deodorant Spray'})
+0.0584,frozenset({'Dish Wash Liquid 500ml'})
+0.056,frozenset({'Energy Drink 250ml'})
+0.157,frozenset({'Face Wash 100ml'})
+0.061,frozenset({'Floor Cleaner 1L'})
+0.061,frozenset({'Garbage Bags 30pc'})
+0.1706,frozenset({'Ghee 500ml'})
+0.059,frozenset({'Green Tea 25 bags'})
+0.1662,frozenset({'Hand Sanitizer 200ml'})
+0.177,frozenset({'Instant Coffee 100g'})
+0.0646,frozenset({'Lassi 200ml'})
+0.0586,frozenset({'Laundry Detergent 1kg'})
+0.0592,frozenset({'Lemon Soda 300ml'})
+0.062,frozenset({'Milk Bun Pack'})
+0.0622,frozenset({'Mineral Water 1L'})
+0.055,frozenset({'Murukku 200g'})
+0.0584,frozenset({'Nachos 100g'})
+0.057,frozenset({'Namkeen Mix 200g'})
+0.0614,frozenset({'Onion 1kg'})
+0.0526,frozenset({'Orange Juice 1L'})
+0.0564,frozenset({'Paneer 200g'})
+0.1698,frozenset({'Poha 500g'})
+0.0602,frozenset({'Popcorn 70g'})
+0.0562,frozenset({'Potato 1kg'})
+0.2184,frozenset({'Potato Chips 90g'})
+0.0628,frozenset({'Razor Pack'})
+0.0578,frozenset({'Rusk 200g'})
+0.0606,frozenset({'Rusk Toast 200g'})
+0.0646,frozenset({'Salt 1kg'})
+0.0594,frozenset({'Salted Peanuts 200g'})
+0.0604,frozenset({'Shampoo 340ml'})
+0.0642,frozenset({'Spinach 250g'})
+0.0592,frozenset({'Sugar 1kg'})
+0.0524,frozenset({'Toilet Cleaner 500ml'})
+0.0598,frozenset({'Tomato 1kg'})
+0.254,frozenset({'Toned Milk 1L'})
+0.2068,frozenset({'Toor Dal 1kg'})
+0.0584,frozenset({'Toothpaste 150g'})
+0.0594,frozenset({'Wheat Flour 5kg'})
+0.2546,frozenset({'White Bread 400g'})
+0.0342,"frozenset({'Choco Cookies 150g', 'Basmati Rice 5kg'})"
+0.0436,"frozenset({'Cola 750ml', 'Basmati Rice 5kg'})"
+0.1462,"frozenset({'Basmati Rice 5kg', 'Cooking Oil 1L'})"
+0.0306,"frozenset({'Face Wash 100ml', 'Basmati Rice 5kg'})"
+0.0366,"frozenset({'Ghee 500ml', 'Basmati Rice 5kg'})"
+0.033,"frozenset({'Hand Sanitizer 200ml', 'Basmati Rice 5kg'})"
+0.0338,"frozenset({'Basmati Rice 5kg', 'Instant Coffee 100g'})"
+0.0368,"frozenset({'Poha 500g', 'Basmati Rice 5kg'})"
+0.0438,"frozenset({'Basmati Rice 5kg', 'Potato Chips 90g'})"
+0.0484,"frozenset({'Toned Milk 1L', 'Basmati Rice 5kg'})"
+0.1534,"frozenset({'Basmati Rice 5kg', 'Toor Dal 1kg'})"
+0.048,"frozenset({'Basmati Rice 5kg', 'White Bread 400g'})"
+0.0366,"frozenset({'Choco Cookies 150g', 'Cola 750ml'})"
+0.0382,"frozenset({'Choco Cookies 150g', 'Cooking Oil 1L'})"
+0.0274,"frozenset({'Face Wash 100ml', 'Choco Cookies 150g'})"
+0.0308,"frozenset({'Choco Cookies 150g', 'Ghee 500ml'})"
+0.0276,"frozenset({'Choco Cookies 150g', 'Hand Sanitizer 200ml'})"
+0.152,"frozenset({'Choco Cookies 150g', 'Instant Coffee 100g'})"
+0.0302,"frozenset({'Poha 500g', 'Choco Cookies 150g'})"
+0.0374,"frozenset({'Choco Cookies 150g', 'Potato Chips 90g'})"
+0.0442,"frozenset({'Choco Cookies 150g', 'Toned Milk 1L'})"
+0.038,"frozenset({'Choco Cookies 150g', 'Toor Dal 1kg'})"
+0.045,"frozenset({'Choco Cookies 150g', 'White Bread 400g'})"
+0.0456,"frozenset({'Cola 750ml', 'Cooking Oil 1L'})"
+0.0318,"frozenset({'Face Wash 100ml', 'Cola 750ml'})"
+0.0358,"frozenset({'Cola 750ml', 'Ghee 500ml'})"
+0.0342,"frozenset({'Hand Sanitizer 200ml', 'Cola 750ml'})"
+0.038,"frozenset({'Cola 750ml', 'Instant Coffee 100g'})"
+0.0344,"frozenset({'Poha 500g', 'Cola 750ml'})"
+0.1974,"frozenset({'Cola 750ml', 'Potato Chips 90g'})"
+0.057,"frozenset({'Toned Milk 1L', 'Cola 750ml'})"
+0.0472,"frozenset({'Cola 750ml', 'Toor Dal 1kg'})"
+0.0568,"frozenset({'Cola 750ml', 'White Bread 400g'})"
+0.0314,"frozenset({'Face Wash 100ml', 'Cooking Oil 1L'})"
+0.0376,"frozenset({'Ghee 500ml', 'Cooking Oil 1L'})"
+0.0338,"frozenset({'Hand Sanitizer 200ml', 'Cooking Oil 1L'})"
+0.0366,"frozenset({'Instant Coffee 100g', 'Cooking Oil 1L'})"
+0.0382,"frozenset({'Poha 500g', 'Cooking Oil 1L'})"
+0.0456,"frozenset({'Potato Chips 90g', 'Cooking Oil 1L'})"
+0.0468,"frozenset({'Toned Milk 1L', 'Cooking Oil 1L'})"
+0.1544,"frozenset({'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0464,"frozenset({'White Bread 400g', 'Cooking Oil 1L'})"
+0.0268,"frozenset({'Face Wash 100ml', 'Ghee 500ml'})"
+0.1318,"frozenset({'Face Wash 100ml', 'Hand Sanitizer 200ml'})"
+0.0278,"frozenset({'Face Wash 100ml', 'Instant Coffee 100g'})"
+0.0274,"frozenset({'Face Wash 100ml', 'Poha 500g'})"
+0.0324,"frozenset({'Face Wash 100ml', 'Potato Chips 90g'})"
+0.0396,"frozenset({'Face Wash 100ml', 'Toned Milk 1L'})"
+0.0334,"frozenset({'Face Wash 100ml', 'Toor Dal 1kg'})"
+0.0382,"frozenset({'Face Wash 100ml', 'White Bread 400g'})"
+0.027,"frozenset({'Hand Sanitizer 200ml', 'Ghee 500ml'})"
+0.0298,"frozenset({'Ghee 500ml', 'Instant Coffee 100g'})"
+0.1468,"frozenset({'Poha 500g', 'Ghee 500ml'})"
+0.0368,"frozenset({'Ghee 500ml', 'Potato Chips 90g'})"
+0.0364,"frozenset({'Toned Milk 1L', 'Ghee 500ml'})"
+0.0392,"frozenset({'Ghee 500ml', 'Toor Dal 1kg'})"
+0.0366,"frozenset({'Ghee 500ml', 'White Bread 400g'})"
+0.028,"frozenset({'Hand Sanitizer 200ml', 'Instant Coffee 100g'})"
+0.0268,"frozenset({'Poha 500g', 'Hand Sanitizer 200ml'})"
+0.0348,"frozenset({'Hand Sanitizer 200ml', 'Potato Chips 90g'})"
+0.0444,"frozenset({'Toned Milk 1L', 'Hand Sanitizer 200ml'})"
+0.0362,"frozenset({'Hand Sanitizer 200ml', 'Toor Dal 1kg'})"
+0.042,"frozenset({'Hand Sanitizer 200ml', 'White Bread 400g'})"
+0.03,"frozenset({'Poha 500g', 'Instant Coffee 100g'})"
+0.0378,"frozenset({'Potato Chips 90g', 'Instant Coffee 100g'})"
+0.0454,"frozenset({'Toned Milk 1L', 'Instant Coffee 100g'})"
+0.0378,"frozenset({'Instant Coffee 100g', 'Toor Dal 1kg'})"
+0.0458,"frozenset({'White Bread 400g', 'Instant Coffee 100g'})"
+0.0356,"frozenset({'Poha 500g', 'Potato Chips 90g'})"
+0.0368,"frozenset({'Poha 500g', 'Toned Milk 1L'})"
+0.0408,"frozenset({'Poha 500g', 'Toor Dal 1kg'})"
+0.0368,"frozenset({'Poha 500g', 'White Bread 400g'})"
+0.0584,"frozenset({'Toned Milk 1L', 'Potato Chips 90g'})"
+0.0478,"frozenset({'Potato Chips 90g', 'Toor Dal 1kg'})"
+0.058,"frozenset({'Potato Chips 90g', 'White Bread 400g'})"
+0.0534,"frozenset({'Toned Milk 1L', 'Toor Dal 1kg'})"
+0.2384,"frozenset({'Toned Milk 1L', 'White Bread 400g'})"
+0.054,"frozenset({'White Bread 400g', 'Toor Dal 1kg'})"
+0.0268,"frozenset({'Choco Cookies 150g', 'Basmati Rice 5kg', 'Cooking Oil 1L'})"
+0.0304,"frozenset({'Choco Cookies 150g', 'Basmati Rice 5kg', 'Instant Coffee 100g'})"
+0.0266,"frozenset({'Choco Cookies 150g', 'Basmati Rice 5kg', 'Toor Dal 1kg'})"
+0.0336,"frozenset({'Cola 750ml', 'Basmati Rice 5kg', 'Cooking Oil 1L'})"
+0.0398,"frozenset({'Cola 750ml', 'Basmati Rice 5kg', 'Potato Chips 90g'})"
+0.0348,"frozenset({'Cola 750ml', 'Basmati Rice 5kg', 'Toor Dal 1kg'})"
+0.0212,"frozenset({'Face Wash 100ml', 'Basmati Rice 5kg', 'Cooking Oil 1L'})"
+0.0276,"frozenset({'Ghee 500ml', 'Basmati Rice 5kg', 'Cooking Oil 1L'})"
+0.0228,"frozenset({'Hand Sanitizer 200ml', 'Basmati Rice 5kg', 'Cooking Oil 1L'})"
+0.026,"frozenset({'Basmati Rice 5kg', 'Instant Coffee 100g', 'Cooking Oil 1L'})"
+0.0274,"frozenset({'Poha 500g', 'Basmati Rice 5kg', 'Cooking Oil 1L'})"
+0.0342,"frozenset({'Basmati Rice 5kg', 'Potato Chips 90g', 'Cooking Oil 1L'})"
+0.0324,"frozenset({'Toned Milk 1L', 'Basmati Rice 5kg', 'Cooking Oil 1L'})"
+0.1098,"frozenset({'Basmati Rice 5kg', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0318,"frozenset({'Basmati Rice 5kg', 'White Bread 400g', 'Cooking Oil 1L'})"
+0.0252,"frozenset({'Face Wash 100ml', 'Hand Sanitizer 200ml', 'Basmati Rice 5kg'})"
+0.0232,"frozenset({'Face Wash 100ml', 'Basmati Rice 5kg', 'Toor Dal 1kg'})"
+0.0326,"frozenset({'Poha 500g', 'Ghee 500ml', 'Basmati Rice 5kg'})"
+0.0288,"frozenset({'Ghee 500ml', 'Toor Dal 1kg', 'Basmati Rice 5kg'})"
+0.0258,"frozenset({'Hand Sanitizer 200ml', 'Basmati Rice 5kg', 'Toor Dal 1kg'})"
+0.0274,"frozenset({'Basmati Rice 5kg', 'Instant Coffee 100g', 'Toor Dal 1kg'})"
+0.0292,"frozenset({'Poha 500g', 'Basmati Rice 5kg', 'Toor Dal 1kg'})"
+0.0352,"frozenset({'Basmati Rice 5kg', 'Potato Chips 90g', 'Toor Dal 1kg'})"
+0.0392,"frozenset({'Toned Milk 1L', 'Basmati Rice 5kg', 'Toor Dal 1kg'})"
+0.0454,"frozenset({'Toned Milk 1L', 'Basmati Rice 5kg', 'White Bread 400g'})"
+0.039,"frozenset({'Basmati Rice 5kg', 'White Bread 400g', 'Toor Dal 1kg'})"
+0.032,"frozenset({'Choco Cookies 150g', 'Cola 750ml', 'Instant Coffee 100g'})"
+0.0334,"frozenset({'Choco Cookies 150g', 'Cola 750ml', 'Potato Chips 90g'})"
+0.033,"frozenset({'Choco Cookies 150g', 'Instant Coffee 100g', 'Cooking Oil 1L'})"
+0.0294,"frozenset({'Choco Cookies 150g', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0234,"frozenset({'Face Wash 100ml', 'Choco Cookies 150g', 'Hand Sanitizer 200ml'})"
+0.0244,"frozenset({'Face Wash 100ml', 'Choco Cookies 150g', 'Instant Coffee 100g'})"
+0.027,"frozenset({'Choco Cookies 150g', 'Ghee 500ml', 'Instant Coffee 100g'})"
+0.026,"frozenset({'Poha 500g', 'Ghee 500ml', 'Choco Cookies 150g'})"
+0.0234,"frozenset({'Choco Cookies 150g', 'Hand Sanitizer 200ml', 'Instant Coffee 100g'})"
+0.0266,"frozenset({'Poha 500g', 'Instant Coffee 100g', 'Choco Cookies 150g'})"
+0.0322,"frozenset({'Potato Chips 90g', 'Instant Coffee 100g', 'Choco Cookies 150g'})"
+0.0394,"frozenset({'Choco Cookies 150g', 'Toned Milk 1L', 'Instant Coffee 100g'})"
+0.0332,"frozenset({'Choco Cookies 150g', 'Instant Coffee 100g', 'Toor Dal 1kg'})"
+0.0398,"frozenset({'Choco Cookies 150g', 'White Bread 400g', 'Instant Coffee 100g'})"
+0.0414,"frozenset({'Choco Cookies 150g', 'Toned Milk 1L', 'White Bread 400g'})"
+0.0414,"frozenset({'Cola 750ml', 'Potato Chips 90g', 'Cooking Oil 1L'})"
+0.036,"frozenset({'Cola 750ml', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0256,"frozenset({'Face Wash 100ml', 'Hand Sanitizer 200ml', 'Cola 750ml'})"
+0.0292,"frozenset({'Face Wash 100ml', 'Cola 750ml', 'Potato Chips 90g'})"
+0.0296,"frozenset({'Cola 750ml', 'Poha 500g', 'Ghee 500ml'})"
+0.0324,"frozenset({'Cola 750ml', 'Ghee 500ml', 'Potato Chips 90g'})"
+0.0314,"frozenset({'Hand Sanitizer 200ml', 'Cola 750ml', 'Potato Chips 90g'})"
+0.034,"frozenset({'Cola 750ml', 'Potato Chips 90g', 'Instant Coffee 100g'})"
+0.0314,"frozenset({'Poha 500g', 'Cola 750ml', 'Potato Chips 90g'})"
+0.0518,"frozenset({'Toned Milk 1L', 'Cola 750ml', 'Potato Chips 90g'})"
+0.0434,"frozenset({'Cola 750ml', 'Potato Chips 90g', 'Toor Dal 1kg'})"
+0.0514,"frozenset({'Potato Chips 90g', 'Cola 750ml', 'White Bread 400g'})"
+0.0536,"frozenset({'Toned Milk 1L', 'Cola 750ml', 'White Bread 400g'})"
+0.0264,"frozenset({'Face Wash 100ml', 'Hand Sanitizer 200ml', 'Cooking Oil 1L'})"
+0.024,"frozenset({'Face Wash 100ml', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0338,"frozenset({'Poha 500g', 'Ghee 500ml', 'Cooking Oil 1L'})"
+0.03,"frozenset({'Ghee 500ml', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0256,"frozenset({'Hand Sanitizer 200ml', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.029,"frozenset({'Instant Coffee 100g', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.031,"frozenset({'Poha 500g', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0364,"frozenset({'Potato Chips 90g', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0374,"frozenset({'Toned Milk 1L', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0434,"frozenset({'Toned Milk 1L', 'White Bread 400g', 'Cooking Oil 1L'})"
+0.0376,"frozenset({'White Bread 400g', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0214,"frozenset({'Face Wash 100ml', 'Hand Sanitizer 200ml', 'Ghee 500ml'})"
+0.0238,"frozenset({'Face Wash 100ml', 'Poha 500g', 'Ghee 500ml'})"
+0.0238,"frozenset({'Face Wash 100ml', 'Hand Sanitizer 200ml', 'Instant Coffee 100g'})"
+0.0218,"frozenset({'Face Wash 100ml', 'Poha 500g', 'Hand Sanitizer 200ml'})"
+0.0266,"frozenset({'Face Wash 100ml', 'Hand Sanitizer 200ml', 'Potato Chips 90g'})"
+0.0334,"frozenset({'Face Wash 100ml', 'Toned Milk 1L', 'Hand Sanitizer 200ml'})"
+0.0284,"frozenset({'Face Wash 100ml', 'Hand Sanitizer 200ml', 'Toor Dal 1kg'})"
+0.0316,"frozenset({'Face Wash 100ml', 'Hand Sanitizer 200ml', 'White Bread 400g'})"
+0.0364,"frozenset({'Face Wash 100ml', 'Toned Milk 1L', 'White Bread 400g'})"
+0.0236,"frozenset({'Poha 500g', 'Hand Sanitizer 200ml', 'Ghee 500ml'})"
+0.0258,"frozenset({'Poha 500g', 'Ghee 500ml', 'Instant Coffee 100g'})"
+0.031,"frozenset({'Poha 500g', 'Ghee 500ml', 'Potato Chips 90g'})"
+0.031,"frozenset({'Poha 500g', 'Toned Milk 1L', 'Ghee 500ml'})"
+0.035,"frozenset({'Poha 500g', 'Ghee 500ml', 'Toor Dal 1kg'})"
+0.0312,"frozenset({'Poha 500g', 'Ghee 500ml', 'White Bread 400g'})"
+0.0342,"frozenset({'Toned Milk 1L', 'Ghee 500ml', 'White Bread 400g'})"
+0.0404,"frozenset({'Toned Milk 1L', 'Hand Sanitizer 200ml', 'White Bread 400g'})"
+0.0426,"frozenset({'Toned Milk 1L', 'White Bread 400g', 'Instant Coffee 100g'})"
+0.0348,"frozenset({'Poha 500g', 'Toned Milk 1L', 'White Bread 400g'})"
+0.055,"frozenset({'Potato Chips 90g', 'Toned Milk 1L', 'White Bread 400g'})"
+0.0512,"frozenset({'Toned Milk 1L', 'White Bread 400g', 'Toor Dal 1kg'})"
+0.0236,"frozenset({'Choco Cookies 150g', 'Basmati Rice 5kg', 'Instant Coffee 100g', 'Cooking Oil 1L'})"
+0.0202,"frozenset({'Choco Cookies 150g', 'Basmati Rice 5kg', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0242,"frozenset({'Choco Cookies 150g', 'Basmati Rice 5kg', 'Instant Coffee 100g', 'Toor Dal 1kg'})"
+0.0308,"frozenset({'Cola 750ml', 'Basmati Rice 5kg', 'Potato Chips 90g', 'Cooking Oil 1L'})"
+0.0258,"frozenset({'Cola 750ml', 'Basmati Rice 5kg', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0322,"frozenset({'Cola 750ml', 'Basmati Rice 5kg', 'Potato Chips 90g', 'Toor Dal 1kg'})"
+0.0248,"frozenset({'Poha 500g', 'Ghee 500ml', 'Basmati Rice 5kg', 'Cooking Oil 1L'})"
+0.0214,"frozenset({'Cooking Oil 1L', 'Ghee 500ml', 'Toor Dal 1kg', 'Basmati Rice 5kg'})"
+0.0206,"frozenset({'Basmati Rice 5kg', 'Instant Coffee 100g', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0214,"frozenset({'Poha 500g', 'Basmati Rice 5kg', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0264,"frozenset({'Basmati Rice 5kg', 'Potato Chips 90g', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.025,"frozenset({'Toned Milk 1L', 'Basmati Rice 5kg', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0298,"frozenset({'Toned Milk 1L', 'Basmati Rice 5kg', 'White Bread 400g', 'Cooking Oil 1L'})"
+0.0246,"frozenset({'Basmati Rice 5kg', 'White Bread 400g', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0254,"frozenset({'Poha 500g', 'Ghee 500ml', 'Toor Dal 1kg', 'Basmati Rice 5kg'})"
+0.0374,"frozenset({'Toned Milk 1L', 'Basmati Rice 5kg', 'White Bread 400g', 'Toor Dal 1kg'})"
+0.029,"frozenset({'Potato Chips 90g', 'Cola 750ml', 'Instant Coffee 100g', 'Choco Cookies 150g'})"
+0.0258,"frozenset({'Choco Cookies 150g', 'Instant Coffee 100g', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0206,"frozenset({'Face Wash 100ml', 'Choco Cookies 150g', 'Hand Sanitizer 200ml', 'Instant Coffee 100g'})"
+0.0234,"frozenset({'Poha 500g', 'Ghee 500ml', 'Instant Coffee 100g', 'Choco Cookies 150g'})"
+0.0368,"frozenset({'Choco Cookies 150g', 'Toned Milk 1L', 'White Bread 400g', 'Instant Coffee 100g'})"
+0.033,"frozenset({'Cola 750ml', 'Potato Chips 90g', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0236,"frozenset({'Face Wash 100ml', 'Hand Sanitizer 200ml', 'Cola 750ml', 'Potato Chips 90g'})"
+0.0272,"frozenset({'Cola 750ml', 'Poha 500g', 'Ghee 500ml', 'Potato Chips 90g'})"
+0.0484,"frozenset({'Potato Chips 90g', 'Toned Milk 1L', 'Cola 750ml', 'White Bread 400g'})"
+0.0204,"frozenset({'Face Wash 100ml', 'Hand Sanitizer 200ml', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.027,"frozenset({'Poha 500g', 'Ghee 500ml', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0354,"frozenset({'Toned Milk 1L', 'White Bread 400g', 'Toor Dal 1kg', 'Cooking Oil 1L'})"
+0.0304,"frozenset({'Face Wash 100ml', 'Toned Milk 1L', 'Hand Sanitizer 200ml', 'White Bread 400g'})"
+0.0292,"frozenset({'Poha 500g', 'Toned Milk 1L', 'Ghee 500ml', 'White Bread 400g'})"
+0.0238,"frozenset({'Basmati Rice 5kg', 'Toor Dal 1kg', 'Cooking Oil 1L', 'Cola 750ml', 'Potato Chips 90g'})"
+0.0234,"frozenset({'Basmati Rice 5kg', 'White Bread 400g', 'Toor Dal 1kg', 'Cooking Oil 1L', 'Toned Milk 1L'})"

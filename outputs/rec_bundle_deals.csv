@@ -1,0 +1,8 @@
+pattern,antecedent,consequent,support,confidence,lift,reverse_confidence,bundle_baskets_nov,price_a_inr,price_b_inr,bundle_list_price_inr,baskets_A_only,baskets_B_only,recommendation
+Ghar Breakfast,Ghee 500ml,Poha 500g,0.1468,0.8605,5.0677,0.8645,734,173.93,43.02,216.95,119,115.0,"Hero bundle - 8-10% off; strongest affinity, promote on home screen"
+Personal Care Restock,Hand Sanitizer 200ml,Face Wash 100ml,0.1318,0.793,5.0511,0.8395,659,49.35,278.24,327.59,172,126.0,"Hero bundle - 8-10% off; strongest affinity, promote on home screen"
+Tea-Time,Instant Coffee 100g,Choco Cookies 150g,0.152,0.8588,4.8353,0.8559,760,190.61,80.04,270.65,125,128.0,"Everyday combo - small discount (3-5%); already bought together, protect basket"
+Snack-Drink Combo,Potato Chips 90g,Cola 750ml,0.1974,0.9038,4.1767,0.9122,987,125.82,161.96,287.78,105,95.0,"Everyday combo - small discount (3-5%); already bought together, protect basket"
+Thali Staples,Basmati Rice 5kg,Toor Dal 1kg,0.1534,0.774,3.7426,0.7418,767,221.23,96.76,317.99,224,267.0,Standard bundle - 5-8% off; convert the single-item buyers
+Breakfast Combo,Toned Milk 1L,White Bread 400g,0.2384,0.9386,3.6865,0.9364,1192,149.56,119.28,268.84,78,81.0,"Everyday combo - small discount (3-5%); already bought together, protect basket"
+Thali Staples (3-item),"Basmati Rice 5kg, Toor Dal 1kg",Cooking Oil 1L,0.1098,0.7158,3.5861,,549,317.99,264.39,582.38,218,,"Monthly-staples kit - 5% off; three-way affinity, ideal for subscription / 'refill' bundle"
